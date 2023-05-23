@@ -1,0 +1,27 @@
+{
+  "name": "gptsummarizer",
+  "version": "0.0.1",
+  "description": "A lightweight library to summarize long texts using GPT models",
+  "main": "summarizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devojoyti/gpt-summarizer-javascript.git"
+  },
+  "keywords": [
+    "GPT",
+    "Summarizer"
+  ],
+  "author": "Dev Halder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devojoyti/gpt-summarizer-javascript/issues"
+  },
+  "homepage": "https://github.com/devojoyti/gpt-summarizer-javascript#readme",
+  "dependencies": {
+    "gpt-3-encoder": "^1.1.4",
+    "openai": "^3.2.1"
+  }
+}
