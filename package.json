@@ -1,6 +1,6 @@
 {
   "name": "gptsummarizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight library to summarize long texts using GPT models",
   "main": "summarizer.js",
   "scripts": {
